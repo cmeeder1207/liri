@@ -6,8 +6,11 @@
   "dependencies": {
     "bandsintown": "^1.0.1",
     "dotenv": "^6.0.0",
+    "image-search-google": "^1.0.10",
     "jquery": "^3.3.1",
+    "log-to-file": "^1.2.2",
     "moment": "^2.22.2",
+    "node-cmd": "^3.0.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.88.0",
     "simple-node-logger": "^0.93.37",
